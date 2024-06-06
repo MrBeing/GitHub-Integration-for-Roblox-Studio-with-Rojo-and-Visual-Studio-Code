@@ -9,11 +9,7 @@
       }
     },
 
-    "ReplicatedFirst": {
-      "Packages": {
-        "$path": "Packages"
-      }
-    },
+   
 
     "ServerScriptService": {
       "Server": {
@@ -29,6 +25,11 @@
       }
     },
 
+     "ReplicatedFirst": {
+      "Packagsses": {
+        "$path": "asdsadasd"
+      }
+    },
     "Workspace": {
       "$properties": {
         "FilteringEnabled": true
